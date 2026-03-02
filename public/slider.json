@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=800&h=400&fit=crop",
+    "title": "Educational Toys That Spark Creativity",
+    "description": "Discover toys that make learning fun and exciting for your little ones"
+  },
+  {
+    "id": 2,
+    "image": "https://i.postimg.cc/BnPqcH1w/photo-1534452203293-494d7ddbf7e0-w-800-h-400-fit-crop.jpg",
+    "title": "Support Local Toy Stores",
+    "description": "Help local businesses while finding unique, quality toys for your children"
+  },
+  {
+    "id": 3,
+    "image": "https://i.postimg.cc/4y89tVhm/u-G9o-Q2sm-AS2l-Hmat4q-TD8RBJUp-RDTEr-P1650978232.jpg",
+    "title": "Safe & Quality Guaranteed",
+    "description": "All toys are carefully selected for safety, durability, and educational value"
+  },
+  {
+    "id": 4,
+    "image": "https://i.postimg.cc/HjDC6P51/what-is-stem-toys-1100x.jpg",
+    "title": "STEM Learning Made Fun",
+    "description": "Science, Technology, Engineering, and Math toys that inspire future innovators"
+  },
+  {
+    "id": 5,
+    "image": "https://i.postimg.cc/ZKdb66Nr/outdoor-play.jpg",
+    "title": "Outdoor Adventure Toys",
+    "description": "Encourage active play and exploration with our outdoor toy collection"
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=800&h=400&fit=crop",
+    "title": "Creative Arts & Crafts",
+    "description": "Unleash your child's imagination with our art supplies and craft kits"
+  }
+]
