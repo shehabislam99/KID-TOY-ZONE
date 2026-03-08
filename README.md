@@ -16,7 +16,7 @@ KID TOY ZONE is a responsive React-based toy marketplace built to help families 
 You can add a project screenshot or UI diagram here:
 
 ```md
-![Project Screenshot](./src/assets/Error.webp)
+[Project Screenshot](./src/assets/Error.webp)
 ```
 
 ---
